@@ -1,0 +1,6 @@
+{
+  "name": "Aadhaar & ID Card to PVC Card Maker Pro",
+  "description": "Secure Aadhaar & ID Card PDF auto-scanner, automatic front & back PVC cropper (54mm x 86mm), brightness enhancer, custom phone overlay, direct printer connector, and printable PDF generator with Supabase sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
